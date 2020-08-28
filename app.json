@@ -1,0 +1,7 @@
+{
+  "name": "Vtiger CRM",
+  "description": "Vtiger CRM with Propan",
+  "repository": "https://github.com/javanile/vtiger-propan",
+  "logo": "https://github.com/javanile/vtiger-propan/raw/master/logo.png",
+  "keywords": ["vtiger", "crm", "propan"]
+}
