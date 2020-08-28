@@ -5,7 +5,7 @@
   },
   "scripts": {
     "post-install-cmd": [
-      "vendor/bin/propan build"
+      "vendor/bin/propan build ."
     ]
   }
 }
