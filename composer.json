@@ -1,3 +1,9 @@
 {
-  "javanile/vtiger-propan"  
+  "name": "javanile/vtiger-propan",
+  "require": {
+    "javanile/propan": "*"
+  },
+  "scripts": {
+
+  }
 }
