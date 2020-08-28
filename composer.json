@@ -4,6 +4,8 @@
     "javanile/propan": "*"
   },
   "scripts": {
-
+    "post-install-cmd": [
+      "vendor/bin/propan build"
+    ]
   }
 }
